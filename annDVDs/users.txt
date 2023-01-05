@@ -1,0 +1,8 @@
+{"firstName":"Ann","lastName":"Lozich","email":"ann.lozich@snc.edu","password":"asdfgh"}
+{"firstName":"Ian","lastName":"McKenna","email":"ian.mckenna@snc.edu","password":"9463Coper"}
+{"firstName":"Elizabeth","lastName":"Allen","email":"elizabeth.allen@snc.edu","password":"urmom12"}
+{"firstName":"Izzy","lastName":"Johnston","email":"izzy.johnston@snc.edu","password":"SaintNorbertThing1!"}
+{"firstName":"Gabby","lastName":"Kohn","email":"gabby.kohn@snc.edu","password":"gabby0923"}
+{"firstName":"Ava","lastName":"Baenen","email":"ava.baenen@snc.edu","password":"Galkowski24"}
+{"firstName":"Test","lastName":"Testing","email":"test@snc.edu","password":"testing"}
+{"firstName":"Tim","lastName":"Curry","email":"tim.curry@snc.edu","password":"asdfgh"}

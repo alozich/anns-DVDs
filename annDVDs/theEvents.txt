@@ -1,0 +1,6 @@
+{"title":"Clue","theDate":"12-01-2022","seatFile":"clue1201.txt", "imgFile":"resources/movieposters/Clue.jpg"}
+{"title":"Home Alone 2","theDate":"12-02-2022","seatFile":"homealone21202.txt", "imgFile":"resources/movieposters/HomeAlone2.jpg"}
+{"title":"It","theDate":"12-03-2022","seatFile":"it1203.txt","imgFile":"resources/movieposters/It.jpg"}
+{"title":"The Rocky Horror Picture Show", "theDate":"12-04-2022", "seatFile":"therockyhorrorpictureshow1204.txt", "imgFile":"resources/movieposters/TheRockyHorrorPictureShow.jpg"}
+{"title":"Barbie and the Three Musketeers", "theDate":"12-05-2022", "seatFile":"barbieandthethreemusketeers1205.txt", "imgFile":"resources/movieposters/BarbieandtheThreeMusketeers.jpg"}
+{"title":"Rugrats Go Wild", "theDate":"12-06-22", "seatFile":"rugratsgowild1206.txt", "imgFile":"resources/movieposters/RugratsGoWild.jpg"}
